@@ -16,7 +16,7 @@ One challenge was to specify the problem itself as a lot of research is needed. 
 
 ## Accomplishments that we're proud of
 We are proud of getting the presentation and prototype done in time and to come up with an idea in such a short time.
-You can watch our presentation on [youtube](https://youtu.be/hAQ09c0USBY) and test our [prototype afterwards yourself] (https://www.figma.com/proto/qCEaR6jYl0RLQlstZ7OzCD/SKINai?node-id=5%3A2&scaling=scale-down).
+You can watch our presentation on [youtube](https://youtu.be/hAQ09c0USBY) and test our [prototype] (https://www.figma.com/proto/qCEaR6jYl0RLQlstZ7OzCD/SKINai?node-id=5%3A2&scaling=scale-down) afterwards by yourself.
 
 ## What we learned
 We learned that there seems to be many groups of people, which are not supported in the best way possible in our current health system and that this really is an issue, which should be focused more. We also learned - for ourselves - that setting a limited amount of time for an idea development can really help to come up with something usable.
