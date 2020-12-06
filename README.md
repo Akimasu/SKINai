@@ -1,6 +1,6 @@
 # SKINai
 
-SKINai is a project which was designed for the 2020 HubIT Online-Designathon. This githup repository was created to collect the created information and files. In addition to that in the future it might be used for the next step of the idea, which would be realizing the prototype into an actual application. 
+SKINai is a project which was designed for the [2020 HubIT Online-Designathon](https://hubit-designathon.devpost.com/). This githup repository was created to collect the created information and files. In addition to that in the future it might be used for the next step of the idea, which would be realizing the prototype into an actual application. 
 
 ## Inspiration
 Due to a lack of educational materials on People of Colour, dermatologists are unable to diagnose PoC adequately. Also, modern solutions using AI also seem to show systematic biases - while being helpful to diagnose diseases for lighter skinned people, the results for darker skin tones cannot convince.
